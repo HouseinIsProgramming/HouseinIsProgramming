@@ -25,9 +25,7 @@ From building web apps to designing pixel-perfect UIs and writing shell scripts 
 
 **Design**  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="20"/> Photoshop  
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="20"/> Illustrator
- ![Affinity Designer](https://img.shields.io/badge/-Affinity_Designer-1B72BE?style=flat-square&logo=affinity-designer&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)  ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=black)  ![Affinity Designer](https://img.shields.io/badge/-Affinity_Designer-1B72BE?style=flat-square&logo=affinity-designer&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/-Affinity_Designer-1B72BE?style=flat-square&logo=affinity-designer&logoColor=white)
 
 **Tools & Testing**  
 
