@@ -9,7 +9,7 @@
 
 I'm a 23-year-old self-taught developer with a passion for programming, creative problem-solving, and lifelong learning. I've been coding for as long as I can remember, and for the past **2 years**, I've been working professionally as a **Front-End Developer**.
 
-From building web apps to designing pixel-perfect UIs and writing shell scripts that make life easier, I love crafting intuitive and efficient digital experiences.
+From building web apps to designing pixel-perfect UIs and writing shell scripts that make life easier, there is always something that will keep me tinkering around with code.
 
 ---
 
@@ -38,7 +38,9 @@ From building web apps to designing pixel-perfect UIs and writing shell scripts 
 - Responsive Web Design  
 - Test-Driven Development  
 - Object-Oriented & Functional Programming  
-- Version Control with Git  
+- Version Control with Git
+- Clean code architecture
+- Databank querying
 - CMS: TYPO3, NeosCMS  
 - Writing Documentation 
 ---
