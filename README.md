@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm Housein Abo Shaar!
+# 👋 Hi there, I'm Housein Abo Shaar
 
 🚀 **Front-End Developer** | 🎨 Designer | 🛠 Passionate Problem Solver  
 💡 Always learning and building — one line of code at a time.
 
 ---
 
-## 🔥 About Me
+## About Me
 
 I'm a 23-year-old self-taught developer with a passion for programming, creative problem-solving, and lifelong learning. I've been coding for as long as I can remember, and for the past **2 years**, I've been working professionally as a **Front-End Developer**.
 
@@ -66,7 +66,7 @@ From building web apps to designing pixel-perfect UIs and writing shell scripts 
 
 ---
 
-## 🤝 Let’s Connect!
+##  Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/housein-abo-shaar-920292265/)  
 📫 housein.aboshaar@gmail.com
