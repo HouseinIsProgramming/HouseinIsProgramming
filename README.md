@@ -66,7 +66,7 @@ From building web apps to designing pixel-perfect UIs and writing shell scripts 
 
 ## 🤝 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/housein-abo-shaar-920292265/)  
 📫 housein.aboshaar@gmail.com
 
 ---
