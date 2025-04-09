@@ -71,5 +71,5 @@ From building web apps to designing pixel-perfect UIs and writing shell scripts 
 
 ---
 
-_“Make it work, then make it beautiful.”_
+_“Make it work, then make it intuitive (and kinda pretty).”_
 
