@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Housein Abo Shaar!
 
 🚀 **Front-End Developer** | 🎨 Designer | 🛠 Passionate Problem Solver  
-💡 Always learning, building, and pushing pixels — one line of code at a time.
+💡 Always learning and building — one line of code at a time.
 
 ---
 
