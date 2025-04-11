@@ -7,7 +7,11 @@
 Silly yet useful webapps, admittedly vibe coded...
 
 
-[![PixelDoodle]]([https://me.houseinaboshaar.com/pixeldoodle/) : [![Repo]]([https://github.com/HouseinIsProgramming/PixelDoodle)
+[![PixelDoodle](https://me.houseinaboshaar.com/pixeldoodle)](https://me.houseinaboshaar.com/pixeldoodle)  - [![Repo](https://github.com/HouseinIsProgramming/PixelDoodle)](https://github.com/HouseinIsProgramming/PixelDoodle)
+
+[![TypeMotion](https://me.houseinaboshaar.com/typemotion)](https://me.houseinaboshaar.com/typemotion)  
+[![Repo](https://github.com/HouseinIsProgramming/TypeMotion)](https://github.com/HouseinIsProgramming/TypeMotion)
+
 
 ---
 ## About Me
