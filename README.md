@@ -4,7 +4,12 @@
 💡 Always learning and building — one line of code at a time.
 
 ---
+Silly yet useful webapps, admittedly vibe coded...
 
+
+[![PixelDoodle]]([https://me.houseinaboshaar.com/pixeldoodle/) : [![Repo]]([https://github.com/HouseinIsProgramming/PixelDoodle)
+
+---
 ## About Me
 
 I'm a 23-year-old self-taught developer with a passion for programming, creative problem-solving, and lifelong learning. I've been coding for as long as I can remember, and for the past **2 years**, I've been working professionally as a **Front-End Developer**.
