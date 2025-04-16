@@ -12,7 +12,7 @@
 
 ---
 ## Attempt at making a neovim plugin:
-[![Velix-Motions]([https://me.houseinaboshaar.com/velix-motions](https://github.com/HouseinIsProgramming/velix-motions)]
+**Velix-Motions** -[https://me.houseinaboshaar.com/velix-motions](https://github.com/HouseinIsProgramming/velix-motions)
 
 ---
 ## About Me
