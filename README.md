@@ -11,6 +11,10 @@
 [![TypeMotion](https://me.houseinaboshaar.com/typemotion)](https://me.houseinaboshaar.com/typemotion) - [![Repo](https://github.com/HouseinIsProgramming/TypeMotion)](https://github.com/HouseinIsProgramming/TypeMotion) - A tool that I made to enable quick prototyping/demoing of text animations. 
 
 ---
+## Attempt at making a neovim plugin:
+[![Velix-Motions]([https://me.houseinaboshaar.com/velix-motions](https://github.com/HouseinIsProgramming/velix-motions)]
+
+---
 ## About Me
 
 I'm a 23-year-old self-taught developer with a passion for programming, creative problem-solving, and lifelong learning. I've been coding for as long as I can remember, and for the past **2 years**, I've been working professionally as a **Front-End Developer**.
