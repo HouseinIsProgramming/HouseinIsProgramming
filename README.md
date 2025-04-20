@@ -53,11 +53,6 @@ From building web apps to designing pixel-perfect UIs and writing shell scripts 
 - Databank querying
 - CMS: TYPO3, NeosCMS  
 - Writing Documentation 
----
-
-## Codeacademy Certifications 
-
-### [Front-End Engineer](https://docs.houseinaboshaar.com/codeacademy/frontend.png) - [Learn Node.js](https://docs.houseinaboshaar.com/codeacademy/nodejs.png) - [Learn Testing for Web Development](https://docs.houseinaboshaar.com/codeacademy/testingwebdevelopment.png)
 
 ---
 
