@@ -3,6 +3,16 @@
 💡 Always learning and building — one line of code at a time.
 
 ---
+# Portfolio-Projects:
+
+
+[![Inkaleo](https://me.houseinaboshaar.com/Inkaleo)](https://me.houseinaboshaar.com/Inkaleo)  - [![Repo](https://github.com/HouseinIsProgramming/inkaleo-portfolioproject)](https://github.com/HouseinIsProgramming/inkaleo-portfolioproject) - A Simple animated landing page for an fictional pen. My answer to "Sell me this pen".
+
+[![Chronotes](https://chronotes.houseinaboshaar.com)](https://chronotes.houseinaboshaar.com/) - [![Repo](https://github.com/HouseinIsProgramming/chronotes)](https://github.com/HouseinIsProgramming/chronotes) - A Note taking app with AI-powered flash card generation and spaced repition system. (Still work in progress)
+
+---
+
+---
 ## Silly yet useful webapps, ~admittedly half vibe coded~...
 
 
