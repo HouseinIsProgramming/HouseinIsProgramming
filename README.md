@@ -60,11 +60,11 @@ From building web apps to designing pixel-perfect UIs and writing shell scripts 
 
 ### 👨‍💻 Frontend Developer @ FONDS professionell  
 **Feb 2023 – May 2025**  
-
+---
 ### 🛰️ Mechatronics Technician @ ENPULSION GmbH  
 #### Made something that made it to space!!!
 **Sep 2021 – Jan 2023**  
-
+---
 ### ⚙️ Apprentice Technician @ BIFI - Vienna  
 **Jun 2020 – Sep 2021**  
 
