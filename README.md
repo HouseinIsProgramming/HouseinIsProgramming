@@ -59,21 +59,14 @@ From building web apps to designing pixel-perfect UIs and writing shell scripts 
 ## 💼 Work Experience
 
 ### 👨‍💻 Frontend Developer @ FONDS professionell  
-**Feb 2023 – Present**  
-- Built & maintained multiple web applications using HTML, CSS, JavaScript, and TYPO3/NeosCMS  
-- Developed animated banners, newsletters, and marketing pages  
-- Queried SQL databases & automated PDF/email reporting with Python  
-- Monitored uptime for internal Ad/Newsletter platforms using Google Ad Manager & Mautic
+**Feb 2023 – May 2025**  
 
 ### 🛰️ Mechatronics Technician @ ENPULSION GmbH  
 #### Made something that made it to space!!!
 **Sep 2021 – Jan 2023**  
-- Built and maintained production machines for satellite propulsion systems  
-- Documented manufacturing processes and performed QA for space-grade components
 
 ### ⚙️ Apprentice Technician @ BIFI - Vienna  
 **Jun 2020 – Sep 2021**  
-- First steps in the job market.
 
 ---
 
