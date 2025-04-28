@@ -5,22 +5,20 @@
 ---
 # Portfolio-Projects:
 
+[Inkaleo](https://me.houseinaboshaar.com/inkaleo) - [Repo](https://github.com/HouseinIsProgramming/inkaleo-portfolioproject) - A Simple animated landing page for a fictional pen. My answer to "Sell me this pen".
 
-[![Inkaleo](https://me.houseinaboshaar.com/inkaleo)](https://me.houseinaboshaar.com/inkaleo)  - [![Repo](https://github.com/HouseinIsProgramming/inkaleo-portfolioproject)](https://github.com/HouseinIsProgramming/inkaleo-portfolioproject) - A Simple animated landing page for an fictional pen. My answer to "Sell me this pen".
-
-[![Chronotes](https://chronotes.houseinaboshaar.com)](https://chronotes.houseinaboshaar.com/) - [![Repo](https://github.com/HouseinIsProgramming/chronotes)](https://github.com/HouseinIsProgramming/chronotes) - A Note taking app with AI-powered flash card generation and spaced repition system. (Still work in progress)
+[Chronotes](https://chronotes.houseinaboshaar.com/) - [Repo](https://github.com/HouseinIsProgramming/chronotes) - A Note-taking app with AI-powered flash card generation and a spaced repetition system. (Still work in progress)
 
 ---
 
 ---
 ## Silly yet useful webapps, ~admittedly half vibe coded~...
 
+[PixelDoodle](https://me.houseinaboshaar.com/pixeldoodle) - [Repo](https://github.com/HouseinIsProgramming/PixelDoodle) - A simple web app where you can upload pictures and remove the background from them in bulk. I use this to organize my handwritten notes into Obsidian or Notion.
 
-[![PixelDoodle](https://me.houseinaboshaar.com/pixeldoodle)](https://me.houseinaboshaar.com/pixeldoodle)  - [![Repo](https://github.com/HouseinIsProgramming/PixelDoodle)](https://github.com/HouseinIsProgramming/PixelDoodle) - A simple web app where you can upload pictures and remove the background from them in bulk, I use this to organize my hand written notes into Obsidian.
-
-[![TypeMotion](https://me.houseinaboshaar.com/typemotion)](https://me.houseinaboshaar.com/typemotion) - [![Repo](https://github.com/HouseinIsProgramming/TypeMotion)](https://github.com/HouseinIsProgramming/TypeMotion) - A tool that I made to enable quick prototyping/demoing of text animations. 
-
+[TypeMotion](https://me.houseinaboshaar.com/typemotion) - [Repo](https://github.com/HouseinIsProgramming/TypeMotion) - A tool that I made to enable quick prototyping/demoing of text animations.
 ---
+
 ## Attempt at making a neovim plugin:
 **Velix-Motions** -[https://me.houseinaboshaar.com/velix-motions](https://github.com/HouseinIsProgramming/velix-motions)
 
