@@ -17,6 +17,7 @@
 [PixelDoodle](https://me.houseinaboshaar.com/pixeldoodle) - [Repo](https://github.com/HouseinIsProgramming/PixelDoodle) - A simple web app where you can upload pictures and remove the background from them in bulk. I use this to organize my handwritten notes into Obsidian or Notion.
 
 [TypeMotion](https://me.houseinaboshaar.com/typemotion) - [Repo](https://github.com/HouseinIsProgramming/TypeMotion) - A tool that I made to enable quick prototyping/demoing of text animations.
+
 ---
 
 ## Attempt at making a neovim plugin:
