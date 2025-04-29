@@ -10,8 +10,6 @@
 [Chronotes](https://chronotes.houseinaboshaar.com/) - [Repo](https://github.com/HouseinIsProgramming/chronotes) - A Note-taking app with AI-powered flash card generation and a spaced repetition system. (Still work in progress)
 
 ---
-
----
 ## Silly yet useful webapps, ~admittedly half vibe coded~...
 
 [PixelDoodle](https://me.houseinaboshaar.com/pixeldoodle) - [Repo](https://github.com/HouseinIsProgramming/PixelDoodle) - A simple web app where you can upload pictures and remove the background from them in bulk. I use this to organize my handwritten notes into Obsidian or Notion.
