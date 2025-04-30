@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HouseinIsProgramming&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HouseinIsProgramming&theme=tokyonight-duo&hide_border=true&mode=weekly&type=png" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HouseinIsProgramming&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="195" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HouseinIsProgramming&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
   <img src="https://github-profile-trophy.vercel.app?username=HouseinIsProgramming&theme=tokyonight&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
@@ -21,10 +21,10 @@
 ###
 
 **<div align="center">**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=inkaleo-portfolioproject&theme=tokyonight)](https://github.com/HouseinIsProgramming/inkaleo-portfolioproject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=chronotes&theme=tokyonight)](https://github.com/HouseinIsProgramming/chronotes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=PixelDoodle&theme=tokyonight)](https://github.com/HouseinIsProgramming/PixelDoodle)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=TypeMotion&theme=tokyonight)](https://github.com/HouseinIsProgramming/TypeMotion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=inkaleo-portfolioproject&theme=tokyonight&hide_border=true)](https://github.com/HouseinIsProgramming/inkaleo-portfolioproject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=chronotes&theme=tokyonight&hide_border=true)](https://github.com/HouseinIsProgramming/chronotes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=PixelDoodle&theme=tokyonight&hide_border=true)](https://github.com/HouseinIsProgramming/PixelDoodle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=TypeMotion&theme=tokyonight&hide_border=true)](https://github.com/HouseinIsProgramming/TypeMotion)
 **</div>**
 
 ###
