@@ -21,10 +21,10 @@
 ###
 
 **<div align="center">**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=inkaleo-portfolioproject&theme=react&hide_border=true)](https://github.com/HouseinIsProgramming/inkaleo-portfolioproject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=chronotes&theme=react&hide_border=true)](https://github.com/HouseinIsProgramming/chronotes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=PixelDoodle&theme=react&hide_border=true)](https://github.com/HouseinIsProgramming/PixelDoodle)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=TypeMotion&theme=react&hide_border=true)](https://github.com/HouseinIsProgramming/TypeMotion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=inkaleo-portfolioproject&theme=blueberry&hide_border=true)](https://github.com/HouseinIsProgramming/inkaleo-portfolioproject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=chronotes&theme=blueberry&hide_border=true)](https://github.com/HouseinIsProgramming/chronotes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=PixelDoodle&theme=blueberry&hide_border=true)](https://github.com/HouseinIsProgramming/PixelDoodle)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=TypeMotion&theme=blueberry&hide_border=true)](https://github.com/HouseinIsProgramming/TypeMotion)
 **</div>**
 
 ###
