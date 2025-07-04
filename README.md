@@ -29,7 +29,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HouseinIsProgramming&repo=TypeMotion&theme=catppuccin_mocha&hide_border=true)](https://github.com/HouseinIsProgramming/TypeMotion)
 **</div>**
 <br/><br/>
-
-###
-
-<h2 align="center">Make it work, make it usable, then make it intuitive (and kind of pretty).</h2>
