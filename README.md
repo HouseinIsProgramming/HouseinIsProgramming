@@ -10,8 +10,8 @@ Software dev [@vendure](https://github.com/vendurehq). 6 plate deadlifter. Proba
 ### Archive
 
 - **[nextjs-intellisense](https://github.com/HouseinIsProgramming/nextjs-intellisense)** — IntelliSense for Next.js
-- **[PixelDoodle](https://github.com/HouseinIsProgramming/PixelDoodle)** — Turn images and doodles into digitized notes
-- **[chronotes](https://github.com/HouseinIsProgramming/chronotes)** — AI-powered note-taking web app with AI generated flash card generation
-- **[velix-motions](https://github.com/HouseinIsProgramming/velix-motions)** — Helix word-motions in Neovim
 - **[ConsoleGameOfLife](https://github.com/HouseinIsProgramming/ConsoleGameOfLife)** — Game of Life in the console using curses
+- **[PixelDoodle](https://github.com/HouseinIsProgramming/PixelDoodle)** — Turn images and doodles into digitized notes
+- **[chronotes](https://github.com/HouseinIsProgramming/chronotes)** — AI-powered note-taking web app with flash card AI-generation
+- **[velix-motions](https://github.com/HouseinIsProgramming/velix-motions)** — Helix word-motions in Neovim
 - **[claude-code-commander](https://github.com/HouseinIsProgramming/claude-code-commander)** — Claude Code tooling
