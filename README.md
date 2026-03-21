@@ -2,6 +2,7 @@ Software dev [@vendure](https://github.com/vendurehq). 6 plate deadlifter. Proba
 
 ## Projects - things I made and actively use: 
 
+- **[offis-cli](https://github.com/HouseinIsProgramming/offis-cli)** — AI-first CLI for public transport in Austria
 - **[needyghostty](https://github.com/HouseinIsProgramming/needyghostty)** — Menu bar notifications for Claude Code sessions in Ghostty
 - **[hawk-tui](https://github.com/HouseinIsProgramming/hawk-tui)** — TUI for managing long-running shell commands
 - **[arnold](https://github.com/HouseinIsProgramming/arnold)** — Agent-first GraphQL CLI for Vendure
