@@ -7,6 +7,7 @@ Software dev [@vendure](https://github.com/vendurehq). 6 plate deadlifter. Proba
 - **[hawk-tui](https://github.com/HouseinIsProgramming/hawk-tui)** — TUI for managing long-running shell commands
 - **[arnold](https://github.com/HouseinIsProgramming/arnold)** — Agent-first GraphQL CLI for Vendure
 - **[dotfiles-housein](https://github.com/HouseinIsProgramming/dotfiles-housein)** — My dotfiles
+- **[Dropbar](https://github.com/HouseinIsProgramming/Dropbar)** — macOS menu bar item hider with a draggable separator
 
 ### Archive
 
