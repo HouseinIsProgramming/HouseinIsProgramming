@@ -1,5 +1,6 @@
 Software dev [@vendure](https://github.com/vendurehq). 6 plate deadlifter. Probably have more tmux sessions than you.
 
+Annointed as **Senior** Developer by [@michaelbromley](https://github.com/michaelbromley)
 ## Projects - things I made and actively use: 
 
 - **[offis-cli](https://github.com/HouseinIsProgramming/offis-cli)** — AI-first CLI for public transport in Austria
