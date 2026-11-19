@@ -6,8 +6,8 @@ Portfolio and blog: [blog-n-portfolio.vercel.app](https://blog-n-portfolio.verce
 
 ## Open source at Vendure
 
-- **[vendurehq/vendure](https://github.com/vendurehq/vendure/pulls?q=is%3Apr+is%3Amerged+author%3AHouseinIsProgramming)** — merged PRs to Vendure core
-- **[vendurehq/design](https://github.com/vendurehq/design/pulls?q=is%3Apr+is%3Amerged+author%3AHouseinIsProgramming)** — merged PRs to the Vendure design system (`@vendure-io/ui`)
+- **[vendurehq/vendure](https://github.com/vendurehq/vendure/pulls?q=is%3Apr+is%3Amerged+author%3AHouseinIsProgramming)** — **Core Maintainer**
+- **[vendurehq/design](https://github.com/vendurehq/design/pulls?q=is%3Apr+is%3Amerged+author%3AHouseinIsProgramming)** — **Design System Lead** (`@vendure-io/ui`)
 
 ## Projects - things I made and actively use: 
 
