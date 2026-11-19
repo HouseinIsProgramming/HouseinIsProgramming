@@ -6,7 +6,7 @@ Portfolio and blog: [blog-n-portfolio.vercel.app](https://blog-n-portfolio.verce
 
 ## Open source at Vendure
 
-- **[vendurehq/vendure](https://github.com/vendurehq/vendure/pulls?q=is%3Apr+is%3Amerged+author%3AHouseinIsProgramming)** — merged PRs to Vendure core
+- **[vendurehq/vendure](https://github.com/vendurehq/vendure/pulls?q=is%3Apr+is%3Amerged+author%3AHouseinIsProgramming)** — Core maintainer
 - **[vendurehq/design](https://github.com/vendurehq/design/pulls?q=is%3Apr+is%3Amerged+author%3AHouseinIsProgramming)** — merged PRs to the Vendure design system (`@vendure-io/ui`)
 
 ## Projects - things I made and actively use: 
@@ -25,7 +25,6 @@ Portfolio and blog: [blog-n-portfolio.vercel.app](https://blog-n-portfolio.verce
 ### Archive
 
 - **[Vendure-cms-integration-shop](https://github.com/HouseinIsProgramming/Vendure-cms-integration-shop)** — Vendure example: event-driven product sync to a CMS
-- **[kindassite](https://github.com/HouseinIsProgramming/kindassite)** — Vendure + Next.js store with an Arabic (RTL) storefront
 - **[clockwork-tracking](https://github.com/HouseinIsProgramming/clockwork-tracking)** — Raycast extension for Clockwork time tracking in Jira
 - **[shared-dev-containers](https://github.com/HouseinIsProgramming/shared-dev-containers)** — CLI to share devcontainer templates across projects
 - **[TypeMotion](https://github.com/HouseinIsProgramming/TypeMotion)** — Text animation playground on Framer Motion
