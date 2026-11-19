@@ -2,7 +2,7 @@ Software dev [@vendure](https://github.com/vendurehq), Hobbyist cook, 6 plate De
 
 Anointed as **Senior** Developer by [@michaelbromley](https://github.com/michaelbromley)
 
-Portfolio and blog: [blog-n-portfolio.vercel.app](https://blog-n-portfolio.vercel.app)
+Portfolio and blog: [housein.dev](https:/housein.dev)
 
 ## Open source at Vendure
 
