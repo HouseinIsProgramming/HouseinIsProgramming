@@ -24,15 +24,14 @@ Portfolio and blog: [housein.dev](https://housein.dev/)
 
 ### Archive
 
-- **[Vendure-cms-integration-shop](https://github.com/HouseinIsProgramming/Vendure-cms-integration-shop)** — Vendure example: event-driven product sync to a CMS
-- **[kindassite](https://github.com/HouseinIsProgramming/kindassite)** — Vendure + Next.js store with an Arabic (RTL) storefront
 - **[clockwork-tracking](https://github.com/HouseinIsProgramming/clockwork-tracking)** — Raycast extension for Clockwork time tracking in Jira
-- **[shared-dev-containers](https://github.com/HouseinIsProgramming/shared-dev-containers)** — CLI to share devcontainer templates across projects
 - **[TypeMotion](https://github.com/HouseinIsProgramming/TypeMotion)** — Text animation playground on Framer Motion
 - **[inkaleo](https://github.com/HouseinIsProgramming/inkaleo-portfolioproject)** — My answer to "Sell me this pen"
+- **[shared-dev-containers](https://github.com/HouseinIsProgramming/shared-dev-containers)** — CLI to share devcontainer templates across projects
+- **[Vendure-cms-integration-shop](https://github.com/HouseinIsProgramming/Vendure-cms-integration-shop)** — Vendure example: event-driven product sync to a CMS
 - **[ConsoleGameOfLife](https://github.com/HouseinIsProgramming/ConsoleGameOfLife)** — Game of Life in the console using curses
+- **[claude-code-commander](https://github.com/HouseinIsProgramming/claude-code-commander)** — Claude Code tooling
 - **[PixelDoodle](https://github.com/HouseinIsProgramming/PixelDoodle)** — Turn images and doodles into digitized notes
 - **[velix-motions](https://github.com/HouseinIsProgramming/velix-motions)** — Helix word-motions in Neovim
-- **[claude-code-commander](https://github.com/HouseinIsProgramming/claude-code-commander)** — Claude Code tooling
 - **[nextjs-intellisense](https://github.com/HouseinIsProgramming/nextjs-intellisense)** — IntelliSense for Next.js
 - **[chronotes](https://github.com/HouseinIsProgramming/chronotes)** — AI-powered note-taking web app with flash card AI-generation
