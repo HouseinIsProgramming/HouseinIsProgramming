@@ -1,4 +1,4 @@
-Software dev [@vendure](https://github.com/vendurehq). 6 plate deadlifter. Probably have more tmux sessions than you.
+Software dev [@vendure](https://github.com/vendurehq), Hobbyist cook, 6 plate Deadlifter, and probably have more ~~tmux~~ ~~claude~~ paseo sessions than you do.
 
 Anointed as **Senior** Developer by [@michaelbromley](https://github.com/michaelbromley)
 ## Projects - things I made and actively use: 
@@ -12,9 +12,9 @@ Anointed as **Senior** Developer by [@michaelbromley](https://github.com/michael
 
 ### Archive
 
-- **[nextjs-intellisense](https://github.com/HouseinIsProgramming/nextjs-intellisense)** — IntelliSense for Next.js
 - **[ConsoleGameOfLife](https://github.com/HouseinIsProgramming/ConsoleGameOfLife)** — Game of Life in the console using curses
 - **[PixelDoodle](https://github.com/HouseinIsProgramming/PixelDoodle)** — Turn images and doodles into digitized notes
-- **[chronotes](https://github.com/HouseinIsProgramming/chronotes)** — AI-powered note-taking web app with flash card AI-generation
 - **[velix-motions](https://github.com/HouseinIsProgramming/velix-motions)** — Helix word-motions in Neovim
 - **[claude-code-commander](https://github.com/HouseinIsProgramming/claude-code-commander)** — Claude Code tooling
+- **[nextjs-intellisense](https://github.com/HouseinIsProgramming/nextjs-intellisense)** — IntelliSense for Next.js
+- **[chronotes](https://github.com/HouseinIsProgramming/chronotes)** — AI-powered note-taking web app with flash card AI-generation
